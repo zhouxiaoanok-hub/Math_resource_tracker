@@ -1,3 +1,14 @@
+## 2026-09-10 新发现
+
+- [Paper] Synthetic Differential Geometry in Lean — https://arxiv.org/abs/2603.17457 — Riccardo Brasca and Gabriella Clemente formalize synthetic differential geometry (Kock's axiomatic/infinitesimal approach) in Lean/mathlib, proving a Taylor theorem for functions of several variables via series expansion around an infinitesimal neighborhood; new math.DG formalization not previously logged.
+- No qualifying new workshops/seminars/schools found this search (all with a future registration deadline relative to today, 2026-09-10): checked the Lean community events page (direct fetch blocked by egress policy; used the raw events.yaml on GitHub and web search instead). Candidates considered and excluded:
+  - FLoC 2026 Lean Workshop (Lisbon, July 25, 2026) — deadline: 2026-07-13（今天是2026-09-10，已过期，不符合收录条件，跳过）.
+  - Polyhedra in Lean (FU Berlin, Aug 24–Sept 4, 2026) — registration already closed and event concluded before today（已过期，跳过）.
+  - Lean for the Curious Mathematician 2026 (Cortona, Italy, Sept 7–11, 2026) — event is already underway as of today with no separate registration link found; effectively unregisterable now（已开始/临近结束，跳过）.
+  - Building the Mathematical Library of the Future (AxIOM, SLMath, Berkeley, March 15–April 9, 2027) — application window was 2026-02-01 to 2026-04-30（今天是2026-09-10，已过期，不符合收录条件，跳过）.
+  - Bridging the LMFDB and Lean (MIT, Jan 25–29, 2027) and the Mathlib Anniversary event (July 2027) — both topically out of scope (number theory / general Lean community, not geometry/analysis), so excluded regardless of deadline status.
+- No new Mathlib4 "help wanted" issues found related to geometry/analysis/manifolds beyond what's already logged (checked via web search since direct GitHub API access to leanprover-community/mathlib4 is outside this session's repo scope); current open help-wanted issues skew toward graph theory/combinatorics and tactics, not geometry/analysis.
+
 ## 2026-09-09 新发现
 
 - [Paper] A Lean Formalization of Hamilton's Three-Manifold Theorem — https://arxiv.org/abs/2608.21502 — Bennett Chow et al.'s Lean formalization of Hamilton's 1982 theorem on closed three-manifolds with positive Ricci curvature, including short-time existence for Ricci flow, Riemannian tensor calculus, the Levi-Civita connection, and scalar/tensor maximum principles — core geometric-analysis formalization content.
