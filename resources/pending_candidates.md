@@ -1,3 +1,7 @@
+## 2026-09-29 新发现
+
+- No new qualifying resources found this search. Lean events.yaml (fetched from GitHub source): only future-dated events are Lean Focus Week (Bristol, Oct 26–30, 2026), Bridging the LMFDB and Lean (Jan 25–29, 2027), SLMath AxIOM (Mar 15–Apr 9, 2027; deadline: 2026-04-30，今天是2026-09-29，已过期，不符合收录条件) and Mathlib Anniversary (Jul 19–23, 2027) — all general/number-theory or expired, out of scope. Web searches for math.DG/math.AP Lean/formalization papers surfaced only already-logged items (De Giorgi–Nash–Moser, Synthetic DG, Hamilton's Three-Manifold, LeanGeo, MechGeo, Landau damping). Mathlib4 help-wanted list could not be re-fetched via API this run (no response); no new geometry/analysis issue identified.
+
 ## 2026-09-28 新发现
 
 - [Paper] Formalization of Landau Damping in the Vlasov–Poisson Equations in Lean — https://arxiv.org/abs/2609.16801 — Jacob Bedrossian's (UCLA) Lean 4 formalization of Mouhot & Villani's theorem on nonlinear Landau damping for the Vlasov–Poisson equations on T^d (Gevrey regularity indices s > 1/3, small backgrounds), described by the author as the first formalization of a theorem on a nonlinear PDE evolution equation; math.AP formalization not previously logged in this tracker (distinct from the already-logged Vlasov-Maxwell-Landau equilibrium and Vlasov mean-field papers). Code at https://github.com/Jacob24876/LandauDamping-Public.git. No deadline applicable (paper, not an event).
