@@ -1,3 +1,7 @@
+## 2026-10-01 新发现
+
+- No new qualifying resources found this search. Lean events.yaml (GitHub source; leanprover-community.github.io itself egress-blocked) shows no new geometry/analysis event; previously assessed future events (Lean Focus Week Oct 26–30, 2026; Lean Refactor Arena; LMFDB/Lean Jan 2027; Mathlib Anniversary Jul 2027) are out of topical scope, and SLMath AxIOM — deadline: 2026-04-30（今天是2026-10-01，已过期，不符合收录条件）, excluded. Web searches for math.DG/math.AP Lean papers surfaced only already-logged items; arXiv and mathlib4 help-wanted list not directly reachable, no new issue identified.
+
 ## 2026-09-30 新发现
 
 - [Paper] Formalizing Schwartz Functions and Tempered Distributions — https://arxiv.org/abs/2510.24060 — Moritz Doll's Lean/Mathlib formalization of tempered distributions (first in any proof assistant), including the Fourier transform as an L² isometry and Fourier-defined Sobolev spaces, a foundation for PDE/analysis formalization; not previously logged. No deadline applicable (paper, not an event).
