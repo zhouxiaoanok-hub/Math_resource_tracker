@@ -1,3 +1,7 @@
+## 2026-10-02 新发现
+
+- No new qualifying resources found this search (today is 2026-10-02). Lean events.yaml (GitHub source; leanprover-community.github.io and arxiv.org egress-blocked): future events are general Lean/formalization events with no geometry/analysis focus and no explicit registration deadline (Mathlib Anniversary, Jul 19–23 2027; SLMath "Building the Mathematical Library of the Future", Mar 15–Apr 9 2027; Bridging the LMFDB and Lean, Jan 25–29 2027) — skipped, previously assessed. Web search of arXiv math.DG/math.AP formalization papers only returned already-logged items (2603.17457, 2602.13247, 2608.21502); geometric-analysis workshops found (Valentia Geometrica, ICTP, Lake Michigan) are already past, skipped.
+
 ## 2026-10-01 新发现
 
 - No new qualifying resources found this search. Lean events.yaml (GitHub source; leanprover-community.github.io itself egress-blocked) shows no new geometry/analysis event; previously assessed future events (Lean Focus Week Oct 26–30, 2026; Lean Refactor Arena; LMFDB/Lean Jan 2027; Mathlib Anniversary Jul 2027) are out of topical scope, and SLMath AxIOM — deadline: 2026-04-30（今天是2026-10-01，已过期，不符合收录条件）, excluded. Web searches for math.DG/math.AP Lean papers surfaced only already-logged items; arXiv and mathlib4 help-wanted list not directly reachable, no new issue identified.
