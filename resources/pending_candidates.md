@@ -1,3 +1,7 @@
+## 2026-10-05 新发现
+
+- No new qualifying resources found this search (today is 2026-10-05). Lean events.yaml (GitHub source; leanprover-community.github.io and arxiv.org egress-blocked): future events unchanged (Lean Focus Week Oct 26–30 2026, Lean Refactor Arena, LMFDB/Lean Jan 2027, Mathlib Anniversary Jul 2027) are general/number-theory with no explicit deadline, out of scope; SLMath AxIOM — deadline: 2026-04-30（今天是2026-10-05，已过期，不符合收录条件）, excluded. Web search for math.DG/math.AP Lean papers returned only already-logged items; no new mathlib4 geometry/analysis help-wanted issue identified.
+
 ## 2026-10-04 新发现
 
 - No new qualifying resources found this search (today is 2026-10-04). leanprover-community.github.io is egress-blocked and the events.yaml source was not reachable this run; per the 2026-10-03 check, future Lean events (Lean Focus Week Oct 26–30 2026, Lean Refactor Arena, LMFDB/Lean Jan 2027, Mathlib Anniversary Jul 2027) are general/number-theory with no explicit deadline, out of scope; SLMath AxIOM — deadline: 2026-04-30（今天是2026-10-04，已过期，不符合收录条件）, excluded. Web search for math.DG/math.AP Lean papers returned only already-logged items; no new mathlib4 geometry/analysis help-wanted issue identified.
