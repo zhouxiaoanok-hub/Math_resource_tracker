@@ -1,3 +1,7 @@
+## 2026-10-07 新发现
+
+- No new qualifying resources found this search (today is 2026-10-07). leanprover-community.github.io, export.arxiv.org egress-blocked; used web search. Mathlib4 label:help-wanted + manifold search returned 0 new issues. No new Lean formalization papers in math.DG/math.AP beyond those already listed. Events rejected: Bristol Lean Focus Week (Oct 26–30, 2026; registration deadline 2026-09-30, today is 2026-10-07, 已过期，跳过); ICTP School and Workshop on Geometric Analysis (Aug 24–Sep 4, 2026; deadlines 2026-03-31 / 2026-08-01 已过期，活动已结束，跳过).
+
 ## 2026-10-06 新发现
 
 - No new qualifying resources found this search (today is 2026-10-06). leanprover-community.github.io, arxiv.org and potsdam.de are egress-blocked; last known future Lean events (Lean Focus Week Oct 26–30 2026, Lean Refactor Arena, LMFDB/Lean Jan 2027, Mathlib Anniversary Jul 2027) are general/number-theory with no explicit deadline, out of scope; SLMath AxIOM — deadline: 2026-04-30（今天是2026-10-06，已过期，不符合收录条件）, excluded. Potsdam talk "Formalising differential geometry in Lean" took place 2025-12-17（今天是2026-10-06，活动已过期，跳过）. Web search for math.DG/math.AP Lean papers returned only already-logged items.
