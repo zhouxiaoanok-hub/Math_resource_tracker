@@ -1,3 +1,8 @@
+## 2026-10-08 新发现
+
+- [Workshop] SLMath — Frontier of PDE Formalization and Analysis with AI (Dec 7–8, 2026, Berkeley/SLMath) — https://legacy.slmath.org/workshops/1207 — PDE analysts, Lean/Mathlib developers and AI-for-math researchers build a 1/3/5-year roadmap for formalizing PDEs in Mathlib, directly relevant to analysis/geometric analysis formalization. Deadlines: registration deadline: 2026-12-08（今天是2026-10-08，未过期，符合收录条件）; funding-applicant registration deadline: 2026-10-15（今天是2026-10-08，未过期，符合收录条件，仅剩约一周）.
+- Other sources: leanprover-community.github.io, legacy.slmath.org fetch blocked by egress (used web search); no new math.DG/math.AP Lean papers beyond those already logged; mathlib4 help-wanted + manifold search returned 0 issues.
+
 ## 2026-10-07 新发现
 
 - No new qualifying resources found this search (today is 2026-10-07). leanprover-community.github.io, export.arxiv.org egress-blocked; used web search. Mathlib4 label:help-wanted + manifold search returned 0 new issues. No new Lean formalization papers in math.DG/math.AP beyond those already listed. Events rejected: Bristol Lean Focus Week (Oct 26–30, 2026; registration deadline 2026-09-30, today is 2026-10-07, 已过期，跳过); ICTP School and Workshop on Geometric Analysis (Aug 24–Sep 4, 2026; deadlines 2026-03-31 / 2026-08-01 已过期，活动已结束，跳过).
