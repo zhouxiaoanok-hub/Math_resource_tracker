@@ -1,3 +1,7 @@
+## 2026-10-10 新发现
+
+- No new qualifying resources found this search (today is 2026-10-10). leanprover-community.github.io, export.arxiv.org and the GitHub API for mathlib4 issues were egress-blocked; used web search. Skipped as expired: Bridging the LMFDB and Lean (MIT, Jan 2027; deadline 2026-09-30, 今天是2026-10-10，已过期), Fields Academy Lean course (deadline 2026-09-20，已过期), Erdős Institute Lean study group (2026-05-19，已过期), VIASM mini-course (2026-07-20，已过期). No new math.DG/math.AP Lean papers beyond those already logged.
+
 ## 2026-10-09 新发现
 
 - No new qualifying resources found this search (today is 2026-10-09). leanprover-community.github.io and arxiv.org egress-blocked; used events.yaml (GitHub raw) and web search. Only candidate was the already-logged SLMath PDE Formalization workshop (Dec 7–8, 2026; registration deadline 2026-12-08, funding deadline 2026-10-15; today is 2026-10-09, 未过期) — duplicate, skipped. No new math.DG/math.AP Lean papers; no new geometry/analysis Lean events.
