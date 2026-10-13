@@ -1,3 +1,7 @@
+## 2026-10-13 新发现
+
+- No new qualifying resources found this search (today is 2026-10-13). leanprover-community.github.io and export.arxiv.org egress-blocked; used web search. mathlib4 help-wanted + manifold search returned 0 issues. Papers surfaced (Synthetic Differential Geometry 2603.17457, Banach manifold integral curves 2602.13247, De Giorgi–Nash–Moser, Hamilton 3-manifold) are already logged or previously assessed. Skipped as expired: ICTP Geometric Analysis school (Aug 24–Sep 4, 2026; 活动已举办，今天是2026-10-13，已过期); LEANING IN! 2026 (Mar 12, 2026，已过期). SLMath PDE Formalization workshop already logged.
+
 ## 2026-10-12 新发现
 
 - No new qualifying resources found this search (today is 2026-10-12). leanprover-community.github.io unreachable (egress); used web search. Only candidates surfaced are already logged (SLMath PDE Formalization workshop — funding-applicant registration deadline 2026-10-15，今天是2026-10-12，未过期，仅剩3天，已记录于2026-10-08；Stokes 2605.01028, Hamilton 2608.21502, 2602.13247, 2603.17457). Skipped as expired: SLMath "Building the Mathematical Library of the Future" (deadline 2026-03-31，已过期), UCSD "Techniques and Tools for the Formalization of Analysis" (May 11–15, 2026，活动已结束).
