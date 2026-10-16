@@ -1,3 +1,7 @@
+## 2026-10-16 新发现
+
+- No new qualifying resources found this search (today is 2026-10-16). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. No new math.DG/math.AP Lean papers beyond those already logged (2603.17457, 2602.13247, 2604.05984, 2608.21502). mathlib4 help-wanted search returned 0 issues. No new events with a future deadline. SLMath PDE Formalization workshop already logged; funding-applicant deadline 2026-10-15 已过期 (今天是2026-10-16)，仅general registration deadline 2026-12-08 仍有效（未过期）。Potsdam ai4math workshop (Mar 12, 2026，已过期) skipped.
+
 ## 2026-10-15 新发现
 
 - No new qualifying resources found this search (today is 2026-10-15). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. No new math.DG/math.AP Lean papers beyond those already logged (2603.17457, 2602.13247, 2604.05984, 2608.21502; isoperimetric abstract already noted). No new Lean events or mathlib4 help-wanted items found. SLMath PDE Formalization workshop already logged; its funding-applicant deadline is 2026-10-15（今天是2026-10-15，并非晚于今天，不再符合收录条件）, only the general registration deadline 2026-12-08 remains (未过期).
