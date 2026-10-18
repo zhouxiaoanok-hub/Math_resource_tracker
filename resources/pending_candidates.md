@@ -1,3 +1,7 @@
+## 2026-10-18 新发现
+
+- No new qualifying resources found this search (today is 2026-10-18). leanprover-community.github.io unreachable (egress, ENOTFOUND) and events.yaml fetch returned nothing; used web search. No new math.DG/math.AP Lean papers beyond those already logged. mathlib4 not accessible via GitHub scope; prior help-wanted searches returned 0. Skipped: SLMath mathlib workshop (Mar 15–Apr 9, 2027) — subject-agnostic, application deadline 2026-03-31 已过期 (今天是2026-10-18). SLMath PDE Formalization workshop already logged (registration deadline 2026-12-08，未过期).
+
 ## 2026-10-17 新发现
 
 - No new qualifying resources found this search (today is 2026-10-17). leanprover-community.github.io unreachable (egress, ENOTFOUND); used events.yaml (GitHub raw) and web search. No new math.DG/math.AP Lean papers beyond those already logged. Skipped as out of scope: "Second mathlib reviewer bootcamp" (near Bonn, Jan 18–22, 2027) — general Mathlib review training, not geometry/analysis, no explicit registration deadline found.
