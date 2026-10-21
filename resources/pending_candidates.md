@@ -1,3 +1,7 @@
+## 2026-10-21 新发现
+
+- No new qualifying resources found this search (today is 2026-10-21). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-21，未过期，已记录; funding deadline 2026-10-15 已过期; 2603.17457, 2602.13247, 2604.05984, 2608.21502). No new math.DG/math.AP Lean papers or mathlib4 help-wanted items found.
+
 ## 2026-10-20 新发现
 
 - No new qualifying resources found this search (today is 2026-10-20). leanprover-community.github.io unreachable; used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-20，未过期，已记录; funding deadline 2026-10-15 已过期; De Giorgi 2604.05984; Hamilton 2608.21502). No new math.DG/math.AP Lean papers or mathlib4 help-wanted items found.
