@@ -1,3 +1,7 @@
+## 2026-10-26 新发现
+
+- No new qualifying resources found this search (today is 2026-10-26). leanprover-community.github.io and arxiv.org unreachable (egress, ENOTFOUND); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-26，未过期，已收录; papers 2608.21502, 2603.17457, 2605.01028). Skipped as expired: SLMath mathlib workshop (deadline 2026-03-31，已过期); ICTP Geometric Analysis school (2026-08/09，已举办). No new math.DG/math.AP Lean papers or events with a future deadline.
+
 ## 2026-10-25 新发现
 
 - No new qualifying resources found this search (today is 2026-10-25). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-25，未过期，已收录; papers 2604.05984, 2603.17457, 2602.13247, 2608.21502, 2510.24060). No new math.DG/math.AP Lean papers or geometry/analysis Lean events with a future deadline found.
