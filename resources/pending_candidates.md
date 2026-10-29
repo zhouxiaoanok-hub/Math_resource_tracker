@@ -1,3 +1,8 @@
+## 2026-10-29 新发现
+
+- [Paper] A Lean Formalization of the Hamilton–Perelman Proof of Thurston's Geometrization Conjecture — https://arxiv.org/abs/2610.13897 — Lean formalization of Ricci-flow-based geometrization (listed under Differential Geometry), directly relevant to geometric analysis formalization; no deadline (paper). Note: found via papers.cool snippet only; title/arXiv listing not independently verified (leanprover-community.github.io, arxiv.org, papers.cool unreachable from this session — hosts need to be allowed in network settings).
+- No new events with a future registration deadline found (today is 2026-10-29). SLMath PDE Formalization workshop (deadline 2026-12-08，今天是2026-10-29，未过期) already logged.
+
 ## 2026-10-28 新发现
 
 - No new qualifying resources found this search (today is 2026-10-28). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-28，未过期，已收录; papers 2608.21502, 2603.17457, 2602.13247). Lean Summit 2027 page surfaced but no confirmed dates/deadline, skipped. No new math.DG/math.AP Lean papers or events with a future deadline.
