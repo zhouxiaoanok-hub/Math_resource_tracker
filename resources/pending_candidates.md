@@ -1,3 +1,8 @@
+## 2026-10-30 新发现
+
+- [Paper/Project] 3D Poincaré conjecture Lean formalization (paper submitted 2026-09-27; releases v0.1.4 on 10-05, v0.1.5 preview on 10-09) — https://kingy.ai/mathematics-science-breakthrough-tracker/records/math-poincare-lean-formalization-2026/ — Lean formalization effort in 3-manifold geometry/geometric analysis; no deadline (paper/project). Note: found via a third-party tracker snippet only, marked provisional there; primary paper not verified.
+- No new events with a future registration deadline found (today is 2026-10-30). SLMath PDE Formalization workshop (deadline 2026-12-08，今天是2026-10-30，未过期) already logged. leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); used web search. Expired/skipped: SLMath mathlib workshop (deadline 2026-03-31 已过期), funding deadline 2026-10-15 已过期, Trieste geometric analysis school (Aug–Sep 2026，已举办).
+
 ## 2026-10-29 新发现
 
 - [Paper] A Lean Formalization of the Hamilton–Perelman Proof of Thurston's Geometrization Conjecture — https://arxiv.org/abs/2610.13897 — Lean formalization of Ricci-flow-based geometrization (listed under Differential Geometry), directly relevant to geometric analysis formalization; no deadline (paper). Note: found via papers.cool snippet only; title/arXiv listing not independently verified (leanprover-community.github.io, arxiv.org, papers.cool unreachable from this session — hosts need to be allowed in network settings).
