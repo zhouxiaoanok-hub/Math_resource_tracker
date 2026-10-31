@@ -1,3 +1,7 @@
+## 2026-10-31 新发现
+
+- No new qualifying resources found this search (today is 2026-10-31). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-31，未过期，已收录; papers 2603.17457, 2602.13247, 2604.05984, 2608.21502). mathlib4 help-wanted search returned no open manifold/analysis issues. Potsdam ai4math Lean workshop page has no dates/deadline, skipped.
+
 ## 2026-10-30 新发现
 
 - [Paper/Project] 3D Poincaré conjecture Lean formalization (paper submitted 2026-09-27; releases v0.1.4 on 10-05, v0.1.5 preview on 10-09) — https://kingy.ai/mathematics-science-breakthrough-tracker/records/math-poincare-lean-formalization-2026/ — Lean formalization effort in 3-manifold geometry/geometric analysis; no deadline (paper/project). Note: found via a third-party tracker snippet only, marked provisional there; primary paper not verified.
