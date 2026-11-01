@@ -1,3 +1,7 @@
+## 2026-11-01 新发现
+
+- No new qualifying resources found this search (today is 2026-11-01). leanprover-community.github.io unreachable (egress, ENOTFOUND); used events.yaml (GitHub raw) and web search. Future events in events.yaml (Second mathlib reviewer bootcamp Jan 2027, Bridging the LMFDB and Lean Jan 2027, SLMath AxIOM Mar 2027, Bonn Metaprogramming/Advancing Mathlib Apr 2027, Mathlib Anniversary Jul 2027) are general Lean/Mathlib events outside geometry/analysis scope with no explicit registration deadline, so skipped. SLMath PDE Formalization workshop (deadline 2026-12-08，今天是2026-11-01，未过期) already logged. No new math.DG/math.AP Lean papers beyond those already logged; arxiv.org and mathlib4 issues not directly reachable, web search only.
+
 ## 2026-10-31 新发现
 
 - No new qualifying resources found this search (today is 2026-10-31). leanprover-community.github.io unreachable (egress, ENOTFOUND); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-10-31，未过期，已收录; papers 2603.17457, 2602.13247, 2604.05984, 2608.21502). mathlib4 help-wanted search returned no open manifold/analysis issues. Potsdam ai4math Lean workshop page has no dates/deadline, skipped.
