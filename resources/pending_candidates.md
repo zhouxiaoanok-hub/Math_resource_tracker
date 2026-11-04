@@ -1,3 +1,7 @@
+## 2026-11-04 新发现
+
+- No new qualifying resources found this search (today is 2026-11-04). leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-11-04，未过期，已收录). Skipped: LMFDB/Lean MIT workshop (deadline 2026-02-28 已过期), Analysis formalization workshop (2026-05 已举办), Simons 2025 workshop (已举办).
+
 ## 2026-11-03 新发现
 
 - No new qualifying resources found this search (today is 2026-11-03). leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); used events.yaml (GitHub raw) and web search. Future events in events.yaml (mathlib reviewer bootcamp Jan 2027, LMFDB/Lean Jan 2027, SLMath Mar 2027, Bonn Apr 2027, Mathlib Anniversary Jul 2027) are general Lean/Mathlib events outside scope with no explicit registration deadline, skipped. SLMath PDE Formalization workshop (deadline 2026-12-08，今天是2026-11-03，未过期，已收录) already logged. CRM Convex and Geometric Analysis workshop (Montreal, Dec 9–11, 2026) has no Lean/formalization focus, skipped. No new math.DG/math.AP Lean papers beyond those already logged; mathlib4 issues not directly reachable.
