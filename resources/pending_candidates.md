@@ -1,3 +1,7 @@
+## 2026-11-05 新发现
+
+- No new qualifying resources found this search (today is 2026-11-05). leanprover-community.github.io unreachable (egress); used events.yaml (GitHub raw) and web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-05，未过期，已收录; De Giorgi–Nash–Moser 2604.05984 and Hamilton 3-manifold 2608.21502 already in master). The Creative Determinant GitHub project (Riemannian elliptic BVP, axiomatized PDE results) is not an arXiv paper and was not recorded.
+
 ## 2026-11-04 新发现
 
 - No new qualifying resources found this search (today is 2026-11-04). leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, registration deadline 2026-12-08，今天是2026-11-04，未过期，已收录). Skipped: LMFDB/Lean MIT workshop (deadline 2026-02-28 已过期), Analysis formalization workshop (2026-05 已举办), Simons 2025 workshop (已举办).
