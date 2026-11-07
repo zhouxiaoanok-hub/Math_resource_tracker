@@ -1,3 +1,7 @@
+## 2026-11-07 新发现
+
+- No new qualifying resources found this search (today is 2026-11-07). leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-07，未过期，已收录; papers 2603.17457, 2602.13247, 2604.05984, 2603.14663). Skipped: Bridging the LMFDB and Lean (number theory, no explicit registration deadline), Polyhedra in Lean FU Berlin (deadline 2026-07-16 已过期), arXiv 2511.13304 (planar diagrams, outside geometry/analysis scope).
+
 ## 2026-11-06 新发现
 
 - No new qualifying resources found this search (today is 2026-11-06). leanprover-community.github.io unreachable (egress); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-06，未过期，已收录; papers 2603.17457, 2602.13247, 2604.05984, 2608.21502). Skipped: LMFDB/Lean MIT workshop (deadline 2026-02-28 已过期), Polyhedra in Lean FU Berlin (deadline 2026-07-16 已过期), Simons 2025 workshop (已举办).
