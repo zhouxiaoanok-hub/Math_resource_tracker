@@ -1,3 +1,7 @@
+## 2026-11-09 新发现
+
+- No new qualifying resources found this search (today is 2026-11-09). leanprover-community.github.io and export.arxiv.org unreachable (egress, ENOTFOUND); mathlib4 GitHub API returned 403; used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-09，未过期，已收录; papers 2603.17457, 2602.13247, 2604.05984, 2610.13897). Skipped as expired: Polyhedra in Lean FU Berlin (deadline 2026-07-16 已过期), FLoC 2026 Lean Workshop (deadline 2026-07-13 已过期), LMFDB/Lean (deadline 2026-02-28 已过期), Lean for the Curious Mathematician Cortona (2026-09-07–11，活动已举办).
+
 ## 2026-11-08 新发现
 
 - No new qualifying resources found this search (today is 2026-11-08). leanprover-community.github.io and arxiv.org unreachable (egress, ENOTFOUND; need to be allowed in network settings); used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-08，未过期，已收录; papers 2603.17457, 2602.13247). Polyhedra in Lean (FU Berlin) registration deadline 2026-07-16 已过期，跳过. SLMath mathlib workshop (2027-03-15 to 04-09) 无明确 registration deadline，且为通用主题，未收录.
