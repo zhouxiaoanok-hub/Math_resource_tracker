@@ -1,3 +1,7 @@
+## 2026-11-11 新发现
+
+- No new qualifying resources found this search (today is 2026-11-11). leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); arXiv API blocked by proxy (403); mathlib4 help-wanted issue search returned 0 results; used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-11，未过期，已收录; papers 2610.13897, 2608.21502, 2604.05984, 2603.17457, 2602.13247, 2510.24060). Skipped: Bridging the LMFDB and Lean (deadline 2026-09-30 已过期，且为数论主题), SLMath AxIOM program (2027-03-15–04-09, 无明确 registration deadline，通用主题), Simons 2025 Lean workshop (活动已举办).
+
 ## 2026-11-10 新发现
 
 - No new qualifying resources found this search (today is 2026-11-10). leanprover-community.github.io unreachable (egress, ENOTFOUND; needs to be allowed in network settings); events.yaml raw source returned 404; arXiv and mathlib4 issues not directly checked; used web search. Only already-logged items surfaced (SLMath PDE Formalization workshop, deadline 2026-12-08，今天是2026-11-10，未过期，已收录; papers 2603.17457, 2602.13247, 2604.05984, 2608.21502). Skipped as expired: 2025 Simons Lean workshop (活动已举办), LMFDB/Lean (deadline 2026-02-28 已过期).
