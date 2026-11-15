@@ -1,3 +1,7 @@
+## 2026-11-15 新发现
+
+- No new qualifying resources found this search (today is 2026-11-15). Sources: the lean4-branch events.yaml on GitHub raw lists only general Lean/Mathlib events (Lean Refactor Arena ends 2026-12-12, reviewer bootcamp Jan 2027, SLMath Mar 2027, Bonn Apr 2027, Mathlib Anniversary Jul 2027). None is about geometry or analysis or gives an explicit registration deadline, so all were skipped. The mathlib4 `help-wanted` issues are unchanged (15 open, none new in geometry/analysis; #33018 already recorded). export.arxiv.org was unreachable (ENOTFOUND), so I used web search; no 2611.* math.DG/math.AP Lean papers surfaced, only already-logged ones (2608.21502, 2604.05984, 2602.13247, 2510.24060). SLMath PDE Formalization workshop (deadline 2026-12-08，今天是2026-11-15，未过期，已收录) was already logged. Skipped: Bridging the LMFDB and Lean (deadline 2026-09-30，已过期).
+
 ## 2026-11-14 新发现
 
 - [Project] Lean Formalization of PDE Topics (weiran-sun/pde) — https://github.com/weiran-sun/pde (Reservoir: https://reservoir.lean-lang.org/@weiran-sun/PDE) — Lean formalization of selected PDE topics following Choksi's "Partial Differential Equations, A First Course" (heat kernel, heat solution via convolution and its properties), aimed at a toolbox for formal PDE analysis in research and teaching; in scope for math.AP formalization. deadline: none (library/project, so the expiry check does not apply). Note: described from web-search snippets only; the repo warns it may not compile against the latest Lean/Mathlib, and its release date was not verified.
